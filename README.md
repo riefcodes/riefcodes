@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-Stack Developer building modern applications with AI integration.<br>Growing into AI Engineering and future MLOps.
+I'm a Full-Stack Developer passionate about building modern applications and integrating AI to create smarter user experiences. I enjoy working across the entire stack, turning ideas into scalable and practical products.
+
+My current focus is growing deeper into AI Engineering and MLOps, learning how to build, deploy, and manage AI-powered systems efficiently in production.
 
 
 ## 🌐 Socials:
